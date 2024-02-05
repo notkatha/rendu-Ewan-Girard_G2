@@ -29,3 +29,4 @@ filtersList.forEach(function (filterItem) {
     this.classList.add("active");
   });
 });
+
